@@ -1,6 +1,5 @@
 streamlit
 numpy
-opencv-python
-scikit-image
 scipy
 plotly
+scikit-image
